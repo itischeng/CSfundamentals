@@ -2,10 +2,10 @@
 
 Github Page只读版：[https://lidangzzz.github.io/How-to-run/](https://lidangzzz.github.io/How-to-run/)
 
-## 第一章 零基础转码篇
+## 第一章 基础
 
-1. 你的第一门编程语言，Python。Coursera上的Python for Everbody （UMich）：[https://www.coursera.org/learn/python?specialization=python](https://www.coursera.org/learn/python?specialization=python)
-2. 你的第二门也是最重要的Computer Science课程，数据结构和算法 （UCSD）：[https://www.coursera.org/specializations/data-structures-algorithms?=#courses](https://www.coursera.org/specializations/data-structures-algorithms?=#courses)
+1. 第一门编程语言，Python。Coursera上的Python for Everbody （UMich）：[https://www.coursera.org/learn/python?specialization=python](https://www.coursera.org/learn/python?specialization=python)
+2. 第二门也是最重要的Computer Science课程，数据结构和算法 （UCSD）：[https://www.coursera.org/specializations/data-structures-algorithms?=#courses](https://www.coursera.org/specializations/data-structures-algorithms?=#courses)
 3. 前端入门（Reactjs）：
     1. Meta的Coursera零基础前端转码课：[https://www.coursera.org/professional-certificates/meta-front-end-developer](https://www.coursera.org/professional-certificates/meta-front-end-developer)
     2. 如果只看文字版，推荐W3CSchool教程：
@@ -59,7 +59,7 @@ Github Page只读版：[https://lidangzzz.github.io/How-to-run/](https://lidangz
 
 ---
 
-## 第二章 你的资质适合转码吗？请完成如下测试
+## 第二章 测试
 
 学完Python和数据结构后，请尝试独立完成以下Leetcode题目：
 1. No.1 Two Sum [https://leetcode.com/problems/two-sum/](https://leetcode.com/problems/two-sum/)
